@@ -1,6 +1,7 @@
 # Диаграмма ERD
 
-![image](https://github.com/user-attachments/assets/688f5786-1b98-4a63-8f49-1b281933e758)
+![image](https://github.com/user-attachments/assets/83e129e8-675b-4335-b163-a9c0fadd0943)
+
 
 
 
