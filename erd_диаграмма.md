@@ -1,4 +1,4 @@
-#Диаграмма ERD
+# Диаграмма ERD
 
 ![image](https://github.com/user-attachments/assets/562a1a4f-11ff-48d6-a50d-554bdc8c3623)
 
